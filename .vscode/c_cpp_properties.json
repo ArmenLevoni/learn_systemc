@@ -1,0 +1,27 @@
+{
+    "configurations": [
+      {
+        "name": "Mac",
+        "includePath": [
+          "${workspaceFolder}/src",
+          "${env:SYSTEMC_PATH}/include"
+        ],
+        "defines": [],
+        "macFrameworkPath": [],
+        "compilerPath": "/usr/bin/clang",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "macos-clang-x64",
+        "browse": {
+          "path": [
+            "${workspaceFolder}/src",
+            "${env:SYSTEMC_PATH}/include"
+          ],
+          "limitSymbolsToIncludedHeaders": true,
+          "databaseFilename": ""
+        }
+      }
+    ],
+    "version": 4
+  }
+  
