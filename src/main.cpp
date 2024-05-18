@@ -17,12 +17,11 @@
 #include <systemc.h>
 #include "helper_fct.h"
 
-int sc_main(int argc, char* argv[]) {
+// rename sc_main_ex1 to sc_main to make it main
+int sc_main_ex1(int argc, char* argv[]) {
 
 	/* Ela5boration step */
 	DISPLAY("ELABORATION");
-
-
 
 	/* Simulation step */
 	DISPLAY("START SIMULATION");
