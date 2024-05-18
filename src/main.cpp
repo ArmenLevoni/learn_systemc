@@ -19,7 +19,7 @@
 
 int sc_main(int argc, char* argv[]) {
 
-	/* Elaboration step */
+	/* Ela5boration step */
 	DISPLAY("ELABORATION");
 
 

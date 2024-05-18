@@ -18,7 +18,7 @@
                     "ignoreFailures": true
                 }
             ],
-            "preLaunchTask": "Build SystemC Project",
+            "preLaunchTask": "SystemC - Build",
             "logging": {
                 "engineLogging": true
             }
